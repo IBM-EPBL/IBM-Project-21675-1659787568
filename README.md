@@ -2,6 +2,8 @@
 
 ## Plasma Donor Application
 
+### [Project Demo Video Link](https://youtu.be/kSYmpZdWFVw)
+
 ### Team ID: PNT2022TMID27815
 
 Batch: B7-1A3E
